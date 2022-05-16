@@ -1,0 +1,11 @@
+<site-list version="1">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>05/16/2022 14:59:04</date-created>
+  </created-by>
+  <site url="digitalexpress.tdbank.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
